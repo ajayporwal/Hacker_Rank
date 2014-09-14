@@ -1,4 +1,8 @@
 Hacker_Rank
 ===========
-These are my codes for problems in HackerRank. My HackerRank ID: https://www.hackerrank.com/ajayporwal
-Website: ajayporwal.com
+These are my solution to problems in HackerRank.
+
+HackerRank: https://www.hackerrank.com/ajayporwal
+Website:    ajayporwal.com
+GitHub:     github.com/ajayporwal
+Email:      ajay_porwal2002@yahoo.com
